@@ -1,5 +1,6 @@
 [
   {
+    "id": "my-local-drive-source",
     "name": "Local Hard Drive Library",
     "downloads": [
       {
