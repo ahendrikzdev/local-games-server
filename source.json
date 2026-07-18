@@ -1,0 +1,21 @@
+{
+  "name": "My Local Hard Drive Library",
+  "downloads": [
+    {
+      "title": "My Locally Stored Game",
+      "fileSize": 4500000000,
+      "uris": [
+        "file:///X:/games/blood_bowl_2_legendary_edition/setup_blood_bowl_2_-_legendary_edition_2.0.219.5_(47508).exe"
+      ],
+      "uploadDate": "2026-07-18T00:00:00Z"
+    }
+  ],
+  "keys": [
+    {
+      "keyid": "local-source-key",
+      "type": "ed25519",
+      "public": "0000000000000000000000000000000000000000000000000000000000000000"
+    }
+  ],
+  "signature": "00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000"
+}
