@@ -2,3 +2,6 @@ complete source
 sanitize entries
 automate entries:titles, game size, pull id's
 https://raw.githubusercontent.com/ahendrikzdev/local-games-server/main/source.json?=update
+file:///X:/games/blood_bowl_2_legendary_edition/blood_bowl_2_legendary_edition.torrent
+
+magnet:?xt=urn:btih:0a418fd0af6d27345a119d80bfd323946fd4213e&dn=blood_bowl_2_legendary_edition&x.pe=127.0.0.1:18561
