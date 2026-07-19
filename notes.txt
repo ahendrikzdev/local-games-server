@@ -4,4 +4,4 @@ automate entries:titles, game size, pull id's
 https://raw.githubusercontent.com/ahendrikzdev/local-games-server/main/source.json?=update
 file:///X:/games/blood_bowl_2_legendary_edition/blood_bowl_2_legendary_edition.torrent
 
-magnet:?xt=urn:btih:0a418fd0af6d27345a119d80bfd323946fd4213e&dn=blood_bowl_2_legendary_edition&x.pe=127.0.0.1:18561
+magnet:?xt=urn:btih:c41befe65fda658570f5db9317d4f66e6fb74ac8&dn=blood_bowl_2_legendary_edition&x.pe=127.0.0.1:18561
