@@ -1,0 +1,3 @@
+complete source
+sanitize entries
+automate entries:titles, game size, pull id's
