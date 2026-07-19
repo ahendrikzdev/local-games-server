@@ -2,11 +2,11 @@
   "name": "Local Catalogue",
   "downloads": [
     {
-      "title": "Blood Bowl 2",
+      "title": "Blood Bowl 2: Legendary Edition (Classic)",
       "uris": [
         "file:///X:/games/blood_bowl_2_legendary_edition/setup_blood_bowl_2_-_legendary_edition_2.0.219.5_(47508).exe"
       ],
-      "fileSize": 4500000000,
+      "fileSize": "4500000000",
       "uploadDate": "2026-07-18T12:00:00Z"
     }
   ]
