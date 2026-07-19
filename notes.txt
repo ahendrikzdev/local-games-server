@@ -1,3 +1,4 @@
 complete source
 sanitize entries
 automate entries:titles, game size, pull id's
+https://raw.githubusercontent.com/ahendrikzdev/local-games-server/main/source.json?=update
